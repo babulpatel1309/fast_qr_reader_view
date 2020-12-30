@@ -35,5 +35,7 @@ android {
         api 'androidx.appcompat:appcompat:1.2.0'
         api 'androidx.annotation:annotation:1.1.0'
         api 'com.google.firebase:firebase-ml-vision:24.1.0'
+        api 'com.google.android.gms:play-services-vision:20.1.1'
+        api 'com.google.android.gms:play-services-vision-common:19.1.1'
     }
 }
